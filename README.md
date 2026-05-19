@@ -1,4 +1,4 @@
-https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif
+<img width="312" height="228" alt="Image" src="https://github.com/user-attachments/assets/325c3e82-91f9-428f-a94f-2e54ff8851b0" />
 # 💫 About Me:
 📌 I am Metehan Atalay, a Full Stack .NET Developer with a passion for modern software technologies and a commitment to continuous self-improvement. Through the projects I have developed, I have gained comprehensive experience in both frontend and backend development processes.
 
